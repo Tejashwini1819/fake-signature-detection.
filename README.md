@@ -52,4 +52,8 @@ http://127.0.0.1:5000
 ## 👩‍💻 Author
 
 Tejashwini
+## 📸 Screenshots
+
+![Screenshot 1](screenshot1.png)
+![Screenshot 2](screenshot2.png)
 
