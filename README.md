@@ -1,5 +1,4 @@
-# fake-signature-detection.
-Dete# Fake Signature Detection System
+# Fake Signature Detection System
 
 A machine learning based web application that detects whether a signature is genuine or fake.
 
@@ -51,5 +50,7 @@ http://127.0.0.1:5000
 - Fake Signature ❌
 
 ## 👩‍💻 Author
+
+Tejashwini
 
 Tejashwinicts whether a signature is genuine or fake using Python, Flask, OpenCV and Machine Learning.
