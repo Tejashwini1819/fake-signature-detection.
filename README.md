@@ -53,4 +53,3 @@ http://127.0.0.1:5000
 
 Tejashwini
 
-Tejashwinicts whether a signature is genuine or fake using Python, Flask, OpenCV and Machine Learning.
